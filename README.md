@@ -61,8 +61,8 @@ flyrank-pdf-report-generator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mahatarig764/flyrank-pdf-report-generator.git
-cd flyrank-pdf-report-generator
+git clone https://https://github.com/summayajawaid/Report_generator.git
+cd report-generator
 ```
 
 ### 2. Create a Virtual Environment
